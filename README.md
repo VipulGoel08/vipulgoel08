@@ -32,18 +32,16 @@ I am an 18-year-old Computer Science diploma student passionate about full-stack
 
 ## 💻 Projects
 
-### [Typing Speed Test Website](https://github.com/username/typing-speed-test)
+### [Typing Speed Test Website](https://typing-test-website123.netlify.app/)
 - Developed using React.js and Firebase.
 - Features:
   - User account creation.
   - Result storage.
   - History tracking for progress analysis.
-![Typing Speed Test Preview](https://user-images.githubusercontent.com/placeholder/typing-speed-test-preview.gif)
 
-### [AI Image Generator](https://github.com/username/ai-image-generator)
+### [AI Image Generator](https://vipulgoel08.github.io/AI-image-generator/)
 - Built using OpenAI's API.
 - Generates images based on user prompts.
-![AI Image Generator Demo](https://user-images.githubusercontent.com/placeholder/ai-image-generator-demo.gif)
 
 ---
 
