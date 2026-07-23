@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am an 18-year-old Computer Science diploma student passionate about full-stack development, especially the MERN stack. I'm highly disciplined, hardworking individual. My journey in tech is all about learning, building, and sharing.
+I am a Computer Science student passionate about full-stack development, especially the MERN stack. I'm highly disciplined, hardworking individual. My journey in tech is all about learning, building, and sharing.
 
 My Portfolio
 <a href='https://vipulgoelportfolio.netlify.app/'>https://vipulgoelportfolio.netlify.app/</a>
