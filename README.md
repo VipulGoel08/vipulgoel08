@@ -102,19 +102,6 @@ Generates images from text prompts using the **OpenAI API**.
 ### [Developer Portfolio](https://vipulgoelportfolio.vercel.app/)
 A personal portfolio showcasing my fleet-management and IoT work, deployed on Vercel.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipulgoel08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=e11d48&icon_color=e11d48" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulgoel08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=e11d48" alt="Top languages" />
-
-</div>
-
----
-
 ## 🎯 Goals
 
 - **Now:** Grow as a full stack engineer building reliable, real-time systems at scale.
@@ -131,7 +118,5 @@ A personal portfolio showcasing my fleet-management and IoT work, deployed on Ve
 <div align="center">
 
 *Stay curious, stay creative, and keep building.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:0b0b0f&height=100&section=footer" alt="footer" />
 
 </div>
